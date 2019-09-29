@@ -1,1 +1,2 @@
-# 2nd_semester_hw
+# Task:
+# Given a txt file, extract a timeline of events 
